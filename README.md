@@ -1,7 +1,19 @@
 
-
-
 ![login](https://user-images.githubusercontent.com/91305490/160081384-ea25ce85-9546-4b0c-8d87-ec5f581f995e.PNG)
+
+
+![dashboard](https://user-images.githubusercontent.com/91305490/160081579-daa0c52a-f986-4647-9ac4-0cd4a0945812.PNG)
+
+
+![add blood](https://user-images.githubusercontent.com/91305490/160081594-75fdd742-048f-4da2-af1f-e9bf0a74bf01.PNG)
+
+
+![add donor](https://user-images.githubusercontent.com/91305490/160081609-33893f59-ed28-4d2b-8176-c7f37489b4e3.PNG)
+
+
+![settings](https://user-images.githubusercontent.com/91305490/160081628-d2e56f15-d7e3-47e0-957e-fcb1beb32bc8.PNG)
+
+
 
 # BloodBank
 
